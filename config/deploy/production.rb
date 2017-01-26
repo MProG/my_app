@@ -1,6 +1,6 @@
 server "139.59.215.73", user: "user", roles: [:app, :web, :db]
 
-set :branch, "master"
+set :branch, "first"
 
 set :rails_env, 'production'
 
