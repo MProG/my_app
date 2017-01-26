@@ -15,6 +15,5 @@
 
 /config/database.yml
 /Procfile
-/config/deploy/
 /shared/
 /public/system/
